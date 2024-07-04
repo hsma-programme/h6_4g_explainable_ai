@@ -9,8 +9,8 @@ Students should be able to:
 - Name some of the techniques available for model-agnostic explainable AI
 - Explain what partial dependence plots are
 - Create partial dependence plots
-- Explain what ALE plots are
-- Create ALE plots
+- Explain what ICE plots are
+- Create ICE plots
 - Explain the history and theory behind SHAP
 - Interpret SHAP plots
 - Use the shap python library to create plots
