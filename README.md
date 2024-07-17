@@ -1,5 +1,32 @@
 # HSMA Session 4G - Explainable AI
 
+## Slides
+
+<a href="https://docs.google.com/presentation/d/1fzvwWTaYCVy7oDTZ__fTDhx89XibyUY-Pa4oUXTpeH4/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
+
+## Exercises
+
+The notebooks in the `exercises` folder can be downloaded and run locally if you have Python installed.
+
+Alternatively, you can run each exercise on **Google Colab**, a free online platform for coding exercises. You will need to be logged in to a google account in your browser. 
+
+Using the links below will open a fresh copy of the notebook to work on - your changes will not be visible to anyone else. However, if you want to be able to refer back to your version of the notebook in future, make sure you click **'File --> Save to Drive'**. 
+Your changes will then be saved to your own account, and you can access your edited copy of the notebook from https://colab.research.google.com/.
+
+Open Exercise 1 in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4g_explainable_ai/blob/main/exercises_colab/1_xai_classification_exercise.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Open Exercise 2a in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4g_explainable_ai/blob/main/exercises_colab/2a_classification_boosting_exercise_xai.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Open Exercise 2b in Google Colab: <a target="_blank" href="https://colab.research.google.com/github/hsma-programme/h6_4g_explainable_ai/blob/main/exercises_colab/2b_regression_tree_exercise_xai.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+## Learning Objectives
+
 Students should be able to:
 
 - Give examples to demonstrate why explainable AI is important
@@ -22,4 +49,4 @@ Students should be able to:
 
 ## Credits
 
-Original versions of shap teaching notebooks (titanic and mpg) and exercise 1 (iris dataset) created by [Elliot Coyne](https://github.com/ElliottHSMA) for [HSMA 5 masterclass](https://github.com/hsma-programme/h5_masterclass_shap/tree/main)
+Original versions of shap session (titanic teaching notebook) and exercise 1 (formerly iris dataset) created by [Elliot Coyne](https://github.com/ElliottHSMA) for [HSMA 5 masterclass](https://github.com/hsma-programme/h5_masterclass_shap/tree/main)
