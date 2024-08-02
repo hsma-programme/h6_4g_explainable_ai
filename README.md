@@ -4,6 +4,20 @@
 
 <a href="https://docs.google.com/presentation/d/1fzvwWTaYCVy7oDTZ__fTDhx89XibyUY-Pa4oUXTpeH4/edit?usp=sharing"><img src="https://img.shields.io/static/v1?label=Google+Slides&message=Click+here+to+view+the+slides+for+this+session&color=%23FBBC04&style=for-the-badge&logo=googleslides&logoColor=%23FBBC04" alt="Google Slides - Click here to view slides for this session"></a>
 
+## Lecture Recording
+
+An Introduction to Explainable AI + Correlation vs Causality: <a href="https://www.youtube.com/watch?v=33ZN1orqjKk"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
+Feature Importance in Logistic Regression & Odds/Log Odds/Probability: <a href="https://www.youtube.com/watch?v=B_meJuMbMr4"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
+Feature Importance with MDI + PFI: <a href="https://www.youtube.com/watch?v=qhVkmPV0QBg"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
+Partial Dependence Plots and Individual Conditional Expectation Plots: <a href="https://www.youtube.com/watch?v=iP07GkeyPpA"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
+Explainable AI with SHAP: <a href="https://www.youtube.com/watch?v=A4MH0GNfxZA"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
+Prediction Uncertainty: <a href="https://www.youtube.com/watch?v=AUnKMEe3ub4"><img src="https://img.shields.io/static/v1?label=Youtube&message=Click+here+to+watch+the+lecture&color=%23282828&style=for-the-badge&logo=youtube&logoColor=%23FF0000" alt="Youtube - Click here to watch the lecture"></a>
+
 ## Exercises
 
 The notebooks in the `exercises` folder can be downloaded and run locally if you have Python installed.
